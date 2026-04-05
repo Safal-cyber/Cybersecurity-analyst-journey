@@ -1,0 +1,37 @@
+Name: Safal
+
+Role: Cybersecurity Analyst (Entry-Level)
+
+---
+
+Skills
+
+- Linux: Log analysis, process investigation, system monitoring
+- Network Analysis: tcpdump, Wireshark (traffic inspection, anomaly detection)
+- SIEM: Splunk (log searching, brute-force detection, event correlation)
+- Incident Response: Detection, investigation, containment, remediation
+- Threat Detection: Brute-force attacks, suspicious processes, abnormal connections
+
+---
+
+Project
+
+SOC Incident Detection & Response Simulation (Linux + Splunk)
+
+- Simulated brute-force attack and analyzed authentication logs
+- Identified attacker IP and correlated failed & successful login events
+- Detected suspicious processes and outbound network connections
+- Implemented response actions: process termination, IP blocking, persistence removal
+- Created detailed incident reports with timeline and investigation findings
+
+---
+
+Tools
+
+Linux, Splunk, Wireshark, tcpdump
+
+---
+
+Education
+
+Bachelor of Computer Applications (BCA) — Final Year
