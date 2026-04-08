@@ -1,37 +1,49 @@
-Name: Safal
+Name: Safal Pandey
+Location: Chhindwara, India
+Email: pandeysafal16@gmail.com
+Phone: 9685555910
+GitHub: 
+LinkedIn: www.linkedin.com/in/safal-pandey-b52b59262
 
-Role: Cybersecurity Analyst (Entry-Level)
+Role : Aspiring Cybersecurity Analyst (SOC L1)
 
----
+Summary
+Aspiring cybersecurity analyst with hands-on experience in log analysis, threat detection, and incident response using Linux and Splunk. Skilled in identifying brute-force attacks, analyzing system processes, and investigating suspicious network activity through practical lab simulations. Actively seeking an entry-level SOC role to apply and grow real-world security skills.
 
 Skills
+Linux (log analysis, process monitoring)
+SIEM: Splunk (search, basic correlation)
+Network Analysis: tcpdump, Wireshark
+Incident Response
+Threat Detection
 
-- Linux: Log analysis, process investigation, system monitoring
-- Network Analysis: tcpdump, Wireshark (traffic inspection, anomaly detection)
-- SIEM: Splunk (log searching, brute-force detection, event correlation)
-- Incident Response: Detection, investigation, containment, remediation
-- Threat Detection: Brute-force attacks, suspicious processes, abnormal connections
-
----
-
-Project
-
+Projects
 SOC Incident Detection & Response Simulation (Linux + Splunk)
+Simulated brute-force attack (60+ failed SSH login attempts)
+Analyzed authentication logs (auth.log) to detect attack patterns
+Identified attacker IP using Splunk queries (stats, rex, timechart)
+Detected suspicious processes running from non-standard locations (/tmp)
+Investigated network connections using ss and tcpdump
+Performed incident response: killed malicious process, blocked IP via UFW, removed cron persistence
+Created detailed incident report with timeline and findings
 
-- Simulated brute-force attack and analyzed authentication logs
-- Identified attacker IP and correlated failed & successful login events
-- Detected suspicious processes and outbound network connections
-- Implemented response actions: process termination, IP blocking, persistence removal
-- Created detailed incident reports with timeline and investigation findings
-
----
+Practical Experience
+Performed log analysis on Linux systems to detect failed and successful login patterns
+Investigated authentication anomalies and brute-force behavior
+Monitored system processes and network connections for suspicious activity
+Practiced full incident response workflow: detection → investigation → containment → recovery
+Simulated real-world attack scenarios including persistence and process compromise
 
 Tools
-
-Linux, Splunk, Wireshark, tcpdump
-
----
+Linux, Splunk, Wireshark, tcpdump, UFW
 
 Education
-
 Bachelor of Computer Applications (BCA) — Final Year
+Makhanlal Chaturvedi National University, Bhopal
+
+Experience
+Business Executive
+USV Private Limited | April 2025 – Present
+Managed client communication and field operations
+Developed strong reporting, discipline, and problem-solving skills
+Handled real-world responsibility and time management alongside technical learning
