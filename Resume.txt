@@ -2,7 +2,7 @@ Name: Safal Pandey
 Location: Chhindwara, India
 Email: pandeysafal16@gmail.com
 Phone: 9685555910
-GitHub: 
+GitHub: https://github.com/Safal-cyber/Cybersecurity-analyst-journey
 LinkedIn: www.linkedin.com/in/safal-pandey-b52b59262
 
 Role : Aspiring Cybersecurity Analyst (SOC L1)
